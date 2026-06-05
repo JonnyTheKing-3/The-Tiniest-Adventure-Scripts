@@ -1,0 +1,70 @@
+CREDITS
+
+==== ART ====
+Characters and Environment:
+RPG Tiny Hero World Bundle PBR by Dungeon Mason 
+Unity Asset store link: (https://assetstore.unity.com/packages/3d/environments/fantasy/rpg-tiny-hero-world-bundle-pbr-316370) 
+Publisher Website link: https://alexkim0415.wixsite.com/dungeonmason
+
+Chests:
+Lowpoly Casual Chests - Free by Aztech Games 
+Unity Asset store link: https://assetstore.unity.com/packages/3d/props/furniture/lowpoly-casual-chests-free-321819
+Publisher Website link: https://aztechgamesltd.blogspot.com/
+
+2D Icons:
+Skymon Icon Pack Free by Amanz
+Unity Asset store link: https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424
+Publisher Website link: https://defacegames.com/ 
+
+UI menu art containers: Jerissa, a friend :)
+
+
+==== MUSIC ====
+- Overworld theme: WhereWasI from yd (https://opengameart.org/content/where-was-i)
+
+- Battle theme: battle theme a from cynicmusic.com (https://opengameart.org/content/battle-theme-a)
+
+- Water: RandomMind (https://opengameart.org/content/sea-and-river-wave-sounds)
+
+
+
+==== SFX ====
+- Smoke Poof: Smoke Poof by sushiman2000 -- https://freesound.org/s/643876/ -- License: Creative Commons 0
+
+- Bow release: By artisticdude (https://opengameart.org/content/battle-sound-effects)
+
+- UI Equip: Impact by Iwan 'qubodup' Gabovitch http://opengameart.org/users/qubodup
+
+- Perfect Dodge time: Time Slow by MidFag (https://opengameart.org/content/time-slow)
+
+- Combat weapon swings and dodge: Swoshes by Made by qubodup/Iwan Gabovitch - qubodup.net - qubodup@gmail.com
+Submitted to opengameart.org (https://opengameart.org/content/swish-bamboo-stick-weapon-swhoshes)
+
+- Fire: campfire in a forest at night.wav by Duophonic -- https://freesound.org/s/248303/ -- License: Creative Commons 0
+
+- Counter Confirm and Found item: Small Bell by steffcaffrey -- https://freesound.org/s/452371/ -- License: Creative Commons 0
+
+- Found Item: Fantasy Magic Button by solo654 -- https://freesound.org/s/627976/ -- License: Creative Commons 0
+
+- Hit ground: soft_impact3 by justanormalguyy312 -- https://freesound.org/s/841274/ -- License: Creative Commons 0
+
+- Hit Impact: Created by Jordan Irwin (AntumDeluge) (https://opengameart.org/content/thwack-sounds)
+
+- Swim: Transitking (https://opengameart.org/content/water-waves)
+
+- Footsteps: Owlish Media Sound Effects (https://opengameart.org/content/sound-effects-pack). I raised the volume of the sounds so they may sound a bit different
+
+- Pause Menu Tab Scroll: SFX by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman
+
+- Button click and Dialogue Bleep: UI Soundpack by m1chiboi made at beansjam mobile 2018 (https://opengameart.org/content/ui-soundpack-by-m1chiboi-bleeps-and-clicks)
+
+
+==== VFX ====
+I also wanted to give a shoutout to Gabriel Aguiar Prod.. His videos helped me with making the VFX :)
+https://www.youtube.com/@GabrielAguiarProd
+
+
+
+
+
+If anyone notices I credited someone incorrectly or I missed anything/anyone or anything like that, please let me know so I can fix it. I want to make sure proper credit is given to these talented individuals.
